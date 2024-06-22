@@ -21,4 +21,8 @@ int main(){
     printf("Liczba wykonanych iteracji: %d\n", (*test_collatz_convergence)(inp, iter) );
     printf("DONE!!\n");
     dlclose(plik);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aab68a50e4a2e71a56e7d02307c4104d117063a9
